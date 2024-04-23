@@ -1,0 +1,7 @@
+name: director-dashboard
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - plotly
+  - streamlit
